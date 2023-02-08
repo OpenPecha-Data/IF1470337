@@ -1,0 +1,16 @@
+id: IF1470337
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:03:21.560692
+last_modified: 2023-02-08 16:03:21.560803
+source_metadata:
+  title: 'Vasubandhu: Triṃśikāvijñapti'
+  language: zh
+bases:
+  4EE0:
+    base_file: 4EE0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
